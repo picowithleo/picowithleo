@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+![](/shaymin_nobg.gif)  
+[Source](https://i.imgur.com/PeZupPO.gif)
+
+
+
+![](https://komarev.com/ghpvc/?username=picowithleo)
+
+
 <!--
 **picowithleo/picowithleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
